@@ -1,0 +1,9 @@
+{
+  "appId": "app.tecladoumbundu.qwerty",
+  "appName": "Teclado de Umbundu",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#F5F6F8",
+    "allowMixedContent": false
+  }
+}
